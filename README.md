@@ -1,4 +1,4 @@
-# ai_replit
+# Replit
 
 A small playground repo for experimenting with AI features in Replit and GitHub.
 
